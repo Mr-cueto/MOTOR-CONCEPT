@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: aquamarine;
+}
+.container{
+    border: 1px solid black;
+    width: 910px;
+    height: 1100px;
+    margin: 50px auto;
+}
+.info{
+    height: 100px;
+    margin: 50px 100px;
+    width: 1000px;
+    
+}
+img {
+    border-radius: 100px;
+    
+
+}
+
+.first{
+    width: 400px;
+    height: 100px;
+}
+.loc{
+    width: 500px;
+    padding-top: 50px;
+}
+#name{
+    margin-top: 30px;
+}
+hr{
+    width: 700px;
+    height: 5px; 
+    background-color: black;
+}
+    
